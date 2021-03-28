@@ -1,0 +1,2228 @@
+fileFormatVersion: 2
+guid: f5f665aac5c66ac45a11731ed7d0ef4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7006315348821431580
+    second: Spritesheet - Jared Trenholm_0
+  - first:
+      213: -5665068378346661498
+    second: Spritesheet - Jared Trenholm_1
+  - first:
+      213: -7227959913091633832
+    second: Spritesheet - Jared Trenholm_2
+  - first:
+      213: -6477951703294188900
+    second: Spritesheet - Jared Trenholm_3
+  - first:
+      213: 320470216620061984
+    second: Spritesheet - Jared Trenholm_4
+  - first:
+      213: -716253933372080611
+    second: Spritesheet - Jared Trenholm_5
+  - first:
+      213: -5460366493814944934
+    second: Spritesheet - Jared Trenholm_6
+  - first:
+      213: -6874567101160314656
+    second: Spritesheet - Jared Trenholm_7
+  - first:
+      213: -1734641855934833559
+    second: Spritesheet - Jared Trenholm_8
+  - first:
+      213: -787232485392461369
+    second: Spritesheet - Jared Trenholm_9
+  - first:
+      213: 39085724490109336
+    second: Spritesheet - Jared Trenholm_10
+  - first:
+      213: 1145575447304472855
+    second: Spritesheet - Jared Trenholm_11
+  - first:
+      213: 6067873248035427008
+    second: Spritesheet - Jared Trenholm_12
+  - first:
+      213: 5441697248675256784
+    second: Spritesheet - Jared Trenholm_13
+  - first:
+      213: 7870293371343681177
+    second: Spritesheet - Jared Trenholm_14
+  - first:
+      213: 3507234705475037902
+    second: Spritesheet - Jared Trenholm_15
+  - first:
+      213: -8641661087289788820
+    second: Spritesheet - Jared Trenholm_16
+  - first:
+      213: 2271754785689366623
+    second: Spritesheet - Jared Trenholm_17
+  - first:
+      213: -4504210517647697413
+    second: Spritesheet - Jared Trenholm_18
+  - first:
+      213: 1343205323437047592
+    second: Spritesheet - Jared Trenholm_19
+  - first:
+      213: 5028994228213207957
+    second: Spritesheet - Jared Trenholm_20
+  - first:
+      213: 7963649519543890282
+    second: Spritesheet - Jared Trenholm_21
+  - first:
+      213: 504948056812518757
+    second: Spritesheet - Jared Trenholm_22
+  - first:
+      213: 6982976459901258867
+    second: Spritesheet - Jared Trenholm_23
+  - first:
+      213: 7455742043401108403
+    second: Spritesheet - Jared Trenholm_24
+  - first:
+      213: -7805094461895157175
+    second: Spritesheet - Jared Trenholm_25
+  - first:
+      213: -5098953786200033519
+    second: Spritesheet - Jared Trenholm_26
+  - first:
+      213: 7727522641620878948
+    second: Spritesheet - Jared Trenholm_27
+  - first:
+      213: -964616119897991556
+    second: Spritesheet - Jared Trenholm_28
+  - first:
+      213: 4209820005963727250
+    second: Spritesheet - Jared Trenholm_29
+  - first:
+      213: 8403618348094438320
+    second: Spritesheet - Jared Trenholm_30
+  - first:
+      213: -4924439078076247092
+    second: Spritesheet - Jared Trenholm_31
+  - first:
+      213: -2815148361156163011
+    second: Spritesheet - Jared Trenholm_32
+  - first:
+      213: 4519200941899085679
+    second: Spritesheet - Jared Trenholm_33
+  - first:
+      213: 8434502362734173777
+    second: Spritesheet - Jared Trenholm_34
+  - first:
+      213: -5417349105148397991
+    second: Spritesheet - Jared Trenholm_35
+  - first:
+      213: -5681101551144919685
+    second: Spritesheet - Jared Trenholm_36
+  - first:
+      213: -2061010097662704239
+    second: Spritesheet - Jared Trenholm_37
+  - first:
+      213: -2739870490512100691
+    second: Spritesheet - Jared Trenholm_38
+  - first:
+      213: 3433497737635585120
+    second: Spritesheet - Jared Trenholm_39
+  - first:
+      213: 5642177204037870026
+    second: Spritesheet - Jared Trenholm_40
+  - first:
+      213: -9080716144383488044
+    second: Spritesheet - Jared Trenholm_41
+  - first:
+      213: -6807007214287233120
+    second: Spritesheet - Jared Trenholm_42
+  - first:
+      213: -2097159737254472102
+    second: Spritesheet - Jared Trenholm_43
+  - first:
+      213: -9187480828876110682
+    second: Spritesheet - Jared Trenholm_44
+  - first:
+      213: -4585493726075228257
+    second: Spritesheet - Jared Trenholm_45
+  - first:
+      213: 7845980535412025021
+    second: Spritesheet - Jared Trenholm_46
+  - first:
+      213: 1732434285746645006
+    second: Spritesheet - Jared Trenholm_47
+  - first:
+      213: -1134394907152062648
+    second: Spritesheet - Jared Trenholm_48
+  - first:
+      213: 5358975054864179625
+    second: Spritesheet - Jared Trenholm_49
+  - first:
+      213: 1856032310059052429
+    second: Spritesheet - Jared Trenholm_50
+  - first:
+      213: 4704656453214974368
+    second: Spritesheet - Jared Trenholm_51
+  - first:
+      213: 3536417415751391885
+    second: Spritesheet - Jared Trenholm_52
+  - first:
+      213: -461373490787058759
+    second: Spritesheet - Jared Trenholm_53
+  - first:
+      213: -425408993797574604
+    second: Spritesheet - Jared Trenholm_54
+  - first:
+      213: 3912932211270724516
+    second: Spritesheet - Jared Trenholm_55
+  - first:
+      213: 8577675399675779153
+    second: Spritesheet - Jared Trenholm_56
+  - first:
+      213: -3598053589297548816
+    second: Spritesheet - Jared Trenholm_57
+  - first:
+      213: 6866934377339172918
+    second: Spritesheet - Jared Trenholm_58
+  - first:
+      213: -2839975210631404829
+    second: Spritesheet - Jared Trenholm_59
+  - first:
+      213: 7341843664809529957
+    second: Spritesheet - Jared Trenholm_60
+  - first:
+      213: -8656725477747480857
+    second: Spritesheet - Jared Trenholm_61
+  - first:
+      213: 2984599125675062042
+    second: Spritesheet - Jared Trenholm_62
+  - first:
+      213: -3254924735171668437
+    second: Spritesheet - Jared Trenholm_63
+  - first:
+      213: 8621089323874295042
+    second: Spritesheet - Jared Trenholm_64
+  - first:
+      213: -970319429318569501
+    second: Spritesheet - Jared Trenholm_65
+  - first:
+      213: -9145773302538877701
+    second: Spritesheet - Jared Trenholm_66
+  - first:
+      213: -7442655881857209556
+    second: Spritesheet - Jared Trenholm_67
+  - first:
+      213: 953121317806585553
+    second: Spritesheet - Jared Trenholm_68
+  - first:
+      213: -3972825600636227586
+    second: Spritesheet - Jared Trenholm_69
+  - first:
+      213: -373419568396548302
+    second: Spritesheet - Jared Trenholm_70
+  - first:
+      213: -3893230796810602891
+    second: Spritesheet - Jared Trenholm_71
+  - first:
+      213: -4578491521344406830
+    second: Spritesheet - Jared Trenholm_72
+  - first:
+      213: 1545049013960476910
+    second: Spritesheet - Jared Trenholm_73
+  - first:
+      213: 7626410210719816558
+    second: Spritesheet - Jared Trenholm_74
+  - first:
+      213: -2696679463806310551
+    second: Spritesheet - Jared Trenholm_75
+  - first:
+      213: 7200729609096052677
+    second: Spritesheet - Jared Trenholm_76
+  - first:
+      213: 480038367253341352
+    second: Spritesheet - Jared Trenholm_77
+  - first:
+      213: -339402136196827239
+    second: Spritesheet - Jared Trenholm_78
+  - first:
+      213: -2182859457840709057
+    second: Spritesheet - Jared Trenholm_79
+  - first:
+      213: 4849059217619620212
+    second: Spritesheet - Jared Trenholm_80
+  - first:
+      213: 1078019904017530084
+    second: Spritesheet - Jared Trenholm_81
+  - first:
+      213: -5911887061339697968
+    second: Spritesheet - Jared Trenholm_82
+  - first:
+      213: -7493981651685566491
+    second: Spritesheet - Jared Trenholm_83
+  - first:
+      213: 7717886889561234775
+    second: Spritesheet - Jared Trenholm_84
+  - first:
+      213: 1923019479128183672
+    second: Spritesheet - Jared Trenholm_85
+  - first:
+      213: -8078386819878293148
+    second: Spritesheet - Jared Trenholm_86
+  - first:
+      213: -654613294392356393
+    second: Spritesheet - Jared Trenholm_87
+  - first:
+      213: -3202998580447212167
+    second: Spritesheet - Jared Trenholm_88
+  - first:
+      213: -6075032755276217650
+    second: Spritesheet - Jared Trenholm_89
+  - first:
+      213: -5542731856075448801
+    second: Spritesheet - Jared Trenholm_90
+  - first:
+      213: 8571340051946608031
+    second: Spritesheet - Jared Trenholm_91
+  - first:
+      213: 1082136860080568046
+    second: Spritesheet - Jared Trenholm_92
+  - first:
+      213: -2156309810913529978
+    second: Spritesheet - Jared Trenholm_93
+  - first:
+      213: 1202756051226556587
+    second: Spritesheet - Jared Trenholm_94
+  - first:
+      213: 1423608106597582686
+    second: Spritesheet - Jared Trenholm_95
+  - first:
+      213: -5259800344668791435
+    second: Spritesheet - Jared Trenholm_96
+  - first:
+      213: -5458013460370091221
+    second: Spritesheet - Jared Trenholm_97
+  - first:
+      213: -2498054879832827091
+    second: Spritesheet - Jared Trenholm_98
+  - first:
+      213: 8425999650655537685
+    second: Spritesheet - Jared Trenholm_99
+  - first:
+      213: -973223182958491118
+    second: Spritesheet - Jared Trenholm_100
+  - first:
+      213: 1730248885362405406
+    second: Spritesheet - Jared Trenholm_101
+  - first:
+      213: 726258490823920734
+    second: Spritesheet - Jared Trenholm_102
+  - first:
+      213: -9059300197573598197
+    second: Spritesheet - Jared Trenholm_103
+  - first:
+      213: 1887555091453054163
+    second: Spritesheet - Jared Trenholm_104
+  - first:
+      213: 3275765799934092044
+    second: Spritesheet - Jared Trenholm_105
+  - first:
+      213: -1471999082327959194
+    second: Spritesheet - Jared Trenholm_106
+  - first:
+      213: -2316791625261236552
+    second: Spritesheet - Jared Trenholm_107
+  - first:
+      213: -3282601707075475355
+    second: Spritesheet - Jared Trenholm_108
+  - first:
+      213: 8307616174778405602
+    second: Spritesheet - Jared Trenholm_109
+  - first:
+      213: -3596391963905179979
+    second: Spritesheet - Jared Trenholm_110
+  - first:
+      213: 4326252152389408282
+    second: Spritesheet - Jared Trenholm_111
+  - first:
+      213: -8225309696414093907
+    second: Spritesheet - Jared Trenholm_112
+  - first:
+      213: -1132654723450079710
+    second: Spritesheet - Jared Trenholm_113
+  - first:
+      213: -7632597511618452740
+    second: Spritesheet - Jared Trenholm_114
+  - first:
+      213: 2765533019155143856
+    second: Spritesheet - Jared Trenholm_115
+  - first:
+      213: 1708740475927320314
+    second: Spritesheet - Jared Trenholm_116
+  - first:
+      213: -4536579024810530598
+    second: Spritesheet - Jared Trenholm_117
+  - first:
+      213: 3972791130046996621
+    second: Spritesheet - Jared Trenholm_118
+  - first:
+      213: -4550546167094868083
+    second: Spritesheet - Jared Trenholm_119
+  - first:
+      213: 4778748442331217750
+    second: Spritesheet - Jared Trenholm_120
+  - first:
+      213: -7770053513293469750
+    second: Spritesheet - Jared Trenholm_121
+  - first:
+      213: 2330751258235923551
+    second: Spritesheet - Jared Trenholm_122
+  - first:
+      213: 4240884838180579738
+    second: Spritesheet - Jared Trenholm_123
+  - first:
+      213: -7094425641383486504
+    second: Spritesheet - Jared Trenholm_124
+  - first:
+      213: -7323008541117865751
+    second: Spritesheet - Jared Trenholm_125
+  - first:
+      213: 2936839207885996928
+    second: Spritesheet - Jared Trenholm_126
+  - first:
+      213: 7203830208566377215
+    second: Spritesheet - Jared Trenholm_127
+  - first:
+      213: -2650646741409182212
+    second: Spritesheet - Jared Trenholm_128
+  - first:
+      213: 9198234772818987444
+    second: Spritesheet - Jared Trenholm_129
+  - first:
+      213: -7038145166278327047
+    second: Spritesheet - Jared Trenholm_130
+  - first:
+      213: 7185638298437845416
+    second: Spritesheet - Jared Trenholm_131
+  - first:
+      213: 6337539586558211919
+    second: Spritesheet - Jared Trenholm_132
+  - first:
+      213: -6493465087728437094
+    second: Spritesheet - Jared Trenholm_133
+  - first:
+      213: -8037392883966619661
+    second: Spritesheet - Jared Trenholm_134
+  - first:
+      213: 5066016996689464492
+    second: Spritesheet - Jared Trenholm_135
+  - first:
+      213: 248308719550395865
+    second: Spritesheet - Jared Trenholm_136
+  - first:
+      213: 6176108303361744999
+    second: Spritesheet - Jared Trenholm_137
+  - first:
+      213: 5967377837101406007
+    second: Spritesheet - Jared Trenholm_138
+  - first:
+      213: 6243025903427951414
+    second: Spritesheet - Jared Trenholm_139
+  - first:
+      213: 6842565925652511505
+    second: Spritesheet - Jared Trenholm_140
+  - first:
+      213: 5681510318349158372
+    second: Spritesheet - Jared Trenholm_141
+  - first:
+      213: 4841566052075902416
+    second: Spritesheet - Jared Trenholm_142
+  - first:
+      213: 3028249645361874457
+    second: Spritesheet - Jared Trenholm_143
+  - first:
+      213: 7939939358501106947
+    second: Spritesheet - Jared Trenholm_144
+  - first:
+      213: 803870797480009960
+    second: Spritesheet - Jared Trenholm_145
+  - first:
+      213: 2373065726723750041
+    second: Spritesheet - Jared Trenholm_146
+  - first:
+      213: 1431671058391521387
+    second: Spritesheet - Jared Trenholm_147
+  - first:
+      213: -7208152154757221391
+    second: Spritesheet - Jared Trenholm_148
+  - first:
+      213: 7588032643713378565
+    second: Spritesheet - Jared Trenholm_149
+  - first:
+      213: -7921457939453994482
+    second: Spritesheet - Jared Trenholm_150
+  - first:
+      213: -4849556014826726012
+    second: Spritesheet - Jared Trenholm_151
+  - first:
+      213: -6733203065253138413
+    second: Spritesheet - Jared Trenholm_152
+  - first:
+      213: -3478720406529527357
+    second: Spritesheet - Jared Trenholm_153
+  - first:
+      213: -762625380349158266
+    second: Spritesheet - Jared Trenholm_154
+  - first:
+      213: -6484457085464620972
+    second: Spritesheet - Jared Trenholm_155
+  - first:
+      213: 250410571312432129
+    second: Spritesheet - Jared Trenholm_156
+  - first:
+      213: 7252420108519787999
+    second: Spritesheet - Jared Trenholm_157
+  - first:
+      213: -4072516593362126250
+    second: Spritesheet - Jared Trenholm_158
+  - first:
+      213: -3914814309436932332
+    second: Spritesheet - Jared Trenholm_159
+  - first:
+      213: 8265750173187823051
+    second: Spritesheet - Jared Trenholm_160
+  - first:
+      213: -3977497365772154877
+    second: Spritesheet - Jared Trenholm_161
+  - first:
+      213: -4289320826261441078
+    second: Spritesheet - Jared Trenholm_162
+  - first:
+      213: -4248510770944512404
+    second: Spritesheet - Jared Trenholm_163
+  - first:
+      213: 4722287063544219114
+    second: Spritesheet - Jared Trenholm_164
+  - first:
+      213: 5152690387810434265
+    second: Spritesheet - Jared Trenholm_165
+  - first:
+      213: 5784884305071019340
+    second: Spritesheet - Jared Trenholm_166
+  - first:
+      213: 1836344330987409723
+    second: Spritesheet - Jared Trenholm_167
+  - first:
+      213: -401819679107525123
+    second: Spritesheet - Jared Trenholm_168
+  - first:
+      213: -8090705945937233029
+    second: Spritesheet - Jared Trenholm_169
+  - first:
+      213: 6603050364138400261
+    second: Spritesheet - Jared Trenholm_170
+  - first:
+      213: 9146241438287805389
+    second: Spritesheet - Jared Trenholm_171
+  - first:
+      213: 3561301311035985487
+    second: Spritesheet - Jared Trenholm_172
+  - first:
+      213: 4661251588902863167
+    second: Spritesheet - Jared Trenholm_173
+  - first:
+      213: -1825614144328867523
+    second: Spritesheet - Jared Trenholm_174
+  - first:
+      213: -1265574885360626225
+    second: Spritesheet - Jared Trenholm_175
+  - first:
+      213: 8972630034424462754
+    second: Spritesheet - Jared Trenholm_176
+  - first:
+      213: 8115828207105640872
+    second: Spritesheet - Jared Trenholm_177
+  - first:
+      213: 808216401167045134
+    second: Spritesheet - Jared Trenholm_178
+  - first:
+      213: 3867143046886390571
+    second: Spritesheet - Jared Trenholm_179
+  - first:
+      213: 4710706997121322361
+    second: Spritesheet - Jared Trenholm_180
+  - first:
+      213: -5277947667969341231
+    second: Spritesheet - Jared Trenholm_181
+  - first:
+      213: -4020026283482775335
+    second: Spritesheet - Jared Trenholm_182
+  - first:
+      213: 6316631986218197498
+    second: Spritesheet - Jared Trenholm_183
+  - first:
+      213: -8339223647629338766
+    second: Spritesheet - Jared Trenholm_184
+  - first:
+      213: 404133193013722925
+    second: Spritesheet - Jared Trenholm_185
+  - first:
+      213: -6838084492280299441
+    second: Spritesheet - Jared Trenholm_186
+  - first:
+      213: -6884348341221038829
+    second: Spritesheet - Jared Trenholm_187
+  - first:
+      213: 1061821064449290108
+    second: Spritesheet - Jared Trenholm_188
+  - first:
+      213: -7079410043292433827
+    second: Spritesheet - Jared Trenholm_189
+  - first:
+      213: 1604925746795873664
+    second: Spritesheet - Jared Trenholm_190
+  - first:
+      213: 3929736657688280047
+    second: Spritesheet - Jared Trenholm_191
+  - first:
+      213: 5039107754207230611
+    second: Spritesheet - Jared Trenholm_192
+  - first:
+      213: 2427701370379023445
+    second: Spritesheet - Jared Trenholm_193
+  - first:
+      213: 8903343340217440713
+    second: Spritesheet - Jared Trenholm_194
+  - first:
+      213: -4806586218958791028
+    second: Spritesheet - Jared Trenholm_195
+  - first:
+      213: -8266234468702754495
+    second: Spritesheet - Jared Trenholm_196
+  - first:
+      213: 8124327382556907035
+    second: Spritesheet - Jared Trenholm_197
+  - first:
+      213: -4510038235435696920
+    second: Spritesheet - Jared Trenholm_198
+  - first:
+      213: 5080755918138216406
+    second: Spritesheet - Jared Trenholm_199
+  - first:
+      213: -8305185282979775548
+    second: Spritesheet - Jared Trenholm_200
+  - first:
+      213: -3111971604002238042
+    second: Spritesheet - Jared Trenholm_201
+  - first:
+      213: 8614219801329602632
+    second: Spritesheet - Jared Trenholm_202
+  - first:
+      213: -3723190242639684325
+    second: Spritesheet - Jared Trenholm_203
+  - first:
+      213: 9195510388244214150
+    second: Spritesheet - Jared Trenholm_204
+  - first:
+      213: 911678716909909817
+    second: Spritesheet - Jared Trenholm_205
+  - first:
+      213: 2597007903306417215
+    second: Spritesheet - Jared Trenholm_206
+  - first:
+      213: -7904856262485172805
+    second: Spritesheet - Jared Trenholm_207
+  - first:
+      213: -9055525876956777016
+    second: Spritesheet - Jared Trenholm_208
+  - first:
+      213: 5465916047569171577
+    second: Spritesheet - Jared Trenholm_209
+  - first:
+      213: 7955520041926661940
+    second: Spritesheet - Jared Trenholm_210
+  - first:
+      213: -2451307344056301881
+    second: Spritesheet - Jared Trenholm_211
+  - first:
+      213: 8342345396606898894
+    second: Spritesheet - Jared Trenholm_212
+  - first:
+      213: -3377555902651168206
+    second: Spritesheet - Jared Trenholm_213
+  - first:
+      213: -6104161367858535296
+    second: Spritesheet - Jared Trenholm_214
+  - first:
+      213: 2269487707427651846
+    second: Spritesheet - Jared Trenholm_215
+  - first:
+      213: 1265502190787097188
+    second: Spritesheet - Jared Trenholm_216
+  - first:
+      213: 5190559454542386174
+    second: Spritesheet - Jared Trenholm_217
+  - first:
+      213: 1127531033311570209
+    second: Spritesheet - Jared Trenholm_218
+  - first:
+      213: 8991558975088920204
+    second: Spritesheet - Jared Trenholm_219
+  - first:
+      213: 3355720802310130961
+    second: Spritesheet - Jared Trenholm_220
+  - first:
+      213: 9007134089736066725
+    second: Spritesheet - Jared Trenholm_221
+  - first:
+      213: 5433094357023536389
+    second: Spritesheet - Jared Trenholm_222
+  - first:
+      213: 1691087773682047871
+    second: Spritesheet - Jared Trenholm_223
+  - first:
+      213: -787220009733877149
+    second: Spritesheet - Jared Trenholm_224
+  - first:
+      213: 3532764465703924440
+    second: Spritesheet - Jared Trenholm_225
+  - first:
+      213: 520324963768946758
+    second: Spritesheet - Jared Trenholm_226
+  - first:
+      213: 3566912582382724244
+    second: Spritesheet - Jared Trenholm_227
+  - first:
+      213: -2580348769555645304
+    second: Spritesheet - Jared Trenholm_228
+  - first:
+      213: 1887840596532234972
+    second: Spritesheet - Jared Trenholm_229
+  - first:
+      213: 4710039334023212354
+    second: Spritesheet - Jared Trenholm_230
+  - first:
+      213: -4812558548577798193
+    second: Spritesheet - Jared Trenholm_231
+  - first:
+      213: 3110707212553003083
+    second: Spritesheet - Jared Trenholm_232
+  - first:
+      213: -9013112065738882577
+    second: Spritesheet - Jared Trenholm_233
+  - first:
+      213: 4880754631409119972
+    second: Spritesheet - Jared Trenholm_234
+  - first:
+      213: 2323707189401320546
+    second: Spritesheet - Jared Trenholm_235
+  - first:
+      213: -255007528776582255
+    second: Spritesheet - Jared Trenholm_236
+  - first:
+      213: 215318525442624248
+    second: Spritesheet - Jared Trenholm_237
+  - first:
+      213: -7886137594433351933
+    second: Spritesheet - Jared Trenholm_238
+  - first:
+      213: 1717339424028930073
+    second: Spritesheet - Jared Trenholm_239
+  - first:
+      213: -2874076127621743779
+    second: Spritesheet - Jared Trenholm_240
+  - first:
+      213: 3484058618947600549
+    second: Spritesheet - Jared Trenholm_241
+  - first:
+      213: -1146290715674537578
+    second: Spritesheet - Jared Trenholm_242
+  - first:
+      213: 1660156421082065316
+    second: Spritesheet - Jared Trenholm_243
+  - first:
+      213: 6298835742310973140
+    second: Spritesheet - Jared Trenholm_244
+  - first:
+      213: -1031174311600801816
+    second: Spritesheet - Jared Trenholm_245
+  - first:
+      213: -1136087606906198517
+    second: Spritesheet - Jared Trenholm_246
+  - first:
+      213: 2829679355087783238
+    second: Spritesheet - Jared Trenholm_247
+  - first:
+      213: -7237227358868829398
+    second: Spritesheet - Jared Trenholm_248
+  - first:
+      213: 2586556834478101964
+    second: Spritesheet - Jared Trenholm_249
+  - first:
+      213: -5664463419305347786
+    second: Spritesheet - Jared Trenholm_250
+  - first:
+      213: -4386532489345221363
+    second: Spritesheet - Jared Trenholm_251
+  - first:
+      213: 7003752008199424966
+    second: Spritesheet - Jared Trenholm_252
+  - first:
+      213: 764569579244673534
+    second: Spritesheet - Jared Trenholm_253
+  - first:
+      213: 1176143830514659088
+    second: Spritesheet - Jared Trenholm_254
+  - first:
+      213: 2292123706830830168
+    second: Spritesheet - Jared Trenholm_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa121bf4194ce90800000000000000
+      internalID: -7006315348821431580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68959502352a161b0800000000000000
+      internalID: -5665068378346661498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85de86121c021bb90800000000000000
+      internalID: -7227959913091633832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92630d5f31b916a0800000000000000
+      internalID: -6477951703294188900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0253bbec6f9827400800000000000000
+      internalID: 320470216620061984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e716ca7da5f06f0800000000000000
+      internalID: -716253933372080611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b07b8aa91e834b0800000000000000
+      internalID: -5460366493814944934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a0cef4a1a890a0800000000000000
+      internalID: -6874567101160314656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cda7c2c605de7e0800000000000000
+      internalID: -1734641855934833559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d888b9303315f0800000000000000
+      internalID: -787232485392461369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8919504624cda8000800000000000000
+      internalID: 39085724490109336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190effbcc6e5ef00800000000000000
+      internalID: 1145575447304472855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25f33f19a653450800000000000000
+      internalID: 6067873248035427008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9528af0dac48b40800000000000000
+      internalID: 5441697248675256784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9963d056f16e83d60800000000000000
+      internalID: 7870293371343681177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae2cbe1633ca030800000000000000
+      internalID: 3507234705475037902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66b6cec607a21880800000000000000
+      internalID: -8641661087289788820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50fec9f0f4e68f10800000000000000
+      internalID: 2271754785689366623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d7060664dd71c0800000000000000
+      internalID: -4504210517647697413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ff0e3002604a210800000000000000
+      internalID: 1343205323437047592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59353261b939ac540800000000000000
+      internalID: 5028994228213207957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61bf187b01948e60800000000000000
+      internalID: 7963649519543890282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d7554159fe10700800000000000000
+      internalID: 504948056812518757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c4457c71488e060800000000000000
+      internalID: 6982976459901258867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb3ed1e2ed187760800000000000000
+      internalID: 7455742043401108403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ade58a0fbbea390800000000000000
+      internalID: -7805094461895157175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f96ffb80ec39b0800000000000000
+      internalID: -5098953786200033519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466c99f76ecad3b60800000000000000
+      internalID: 7727522641620878948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c765ddcefbefc92f0800000000000000
+      internalID: -964616119897991556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910dc7adf84c6a30800000000000000
+      internalID: 4209820005963727250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbbf120d56af9470800000000000000
+      internalID: 8403618348094438320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39631dfb0e8abb0800000000000000
+      internalID: -4924439078076247092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a83471b759ee8d0800000000000000
+      internalID: -2815148361156163011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67718a105d67be30800000000000000
+      internalID: 4519200941899085679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e96f3063f5d0570800000000000000
+      internalID: 8434502362734173777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567953f0b5b1d4b0800000000000000
+      internalID: -5417349105148397991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d161f2d3ca821b0800000000000000
+      internalID: -5681101551144919685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19542526c32d563e0800000000000000
+      internalID: -2061010097662704239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2737a2e460af9d0800000000000000
+      internalID: -2739870490512100691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c50ec300c36af20800000000000000
+      internalID: 3433497737635585120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1eb76064a0d4e40800000000000000
+      internalID: 5642177204037870026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0ed347c0daf180800000000000000
+      internalID: -9080716144383488044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af53e0f007a881a0800000000000000
+      internalID: -6807007214287233120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5612b7845465e2e0800000000000000
+      internalID: -2097159737254472102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c02e0dd28f7080800000000000000
+      internalID: -9187480828876110682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe08940cd0d50c0800000000000000
+      internalID: -4585493726075228257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6ecd72ab582ec60800000000000000
+      internalID: 7845980535412025021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e2a6ddc7da0810800000000000000
+      internalID: 1732434285746645006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847603c97d1d140f0800000000000000
+      internalID: -1134394907152062648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1eb595b67ee5a40800000000000000
+      internalID: 5358975054864179625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da7b46d83f1c910800000000000000
+      internalID: 1856032310059052429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b02c2e1c4a4140800000000000000
+      internalID: 4704656453214974368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8add5327e0e31130800000000000000
+      internalID: 3536417415751391885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbfadc214fd899f0800000000000000
+      internalID: -461373490787058759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430707826c4a81af0800000000000000
+      internalID: -425408993797574604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aba9f25d178d4630800000000000000
+      internalID: 3912932211270724516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158184c54560a0770800000000000000
+      internalID: 8577675399675779153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1b917e255211ec0800000000000000
+      internalID: -3598053589297548816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63838310f604c4f50800000000000000
+      internalID: 6866934377339172918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2666fb7916698d0800000000000000
+      internalID: -2839975210631404829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5629c651ae773e560800000000000000
+      internalID: 7341843664809529957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6a9c41b022dd780800000000000000
+      internalID: -8656725477747480857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13bdca771d6b6920800000000000000
+      internalID: 2984599125675062042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet - Jared Trenholm_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26d57dd23f24d2d0800000000000000
+      internalID: -3254924735171668437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
