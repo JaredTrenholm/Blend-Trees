@@ -6,6 +6,7 @@ public class PlayerMovement_2D : MonoBehaviour
 {   
     [Header("Input settings:")]
     public float speedMultiplier = 5.0f;
+    private float speedIncrease = 0f;
 
     [Space]
     [Header("Character Stats:")]
@@ -29,12 +30,14 @@ public class PlayerMovement_2D : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftShift))
         {
             speedMultiplier = 10f;
+            speedIncrease = 1f;
         } else
         {
             speedMultiplier = 5f;
+            speedIncrease = 0f;
         }
         movementDirection = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        movementSpeed = Mathf.Clamp(movementDirection.magnitude, 0.0f, 1.0f);
+        movementSpeed = Mathf.Clamp(movementDirection.magnitude, 0.0f, 1.0f) + speedIncrease;
         movementDirection.Normalize();
         Move();
         Animate();
